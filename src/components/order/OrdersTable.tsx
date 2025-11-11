@@ -1,3 +1,4 @@
+// این جدول جزئیات سفارش‌ها را به‌صورت جدولی نمایش می‌دهد.
 import Link from 'next/link'
 
 import { EditIconButton } from '@/components/ui'

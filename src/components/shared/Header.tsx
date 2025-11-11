@@ -1,3 +1,4 @@
+// این هدر بالای وبسایت را با جست‌وجو و لینک‌ها نمایش می‌دهد.
 import Link from 'next/link'
 
 import { Logo, Question } from '@/icons'

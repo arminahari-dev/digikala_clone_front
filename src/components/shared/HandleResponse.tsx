@@ -1,3 +1,4 @@
+// این کامپوننت پاسخ درخواست‌ها را مدیریت و پیام مناسب نمایش می‌دهد.
 import { useEffect } from 'react'
 
 import { showAlert } from '@/store'

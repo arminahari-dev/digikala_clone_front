@@ -1,3 +1,4 @@
+// این مودال تایید حذف یک مورد را نمایش می‌دهد.
 import { Modal, Button } from '@/components/ui'
 
 interface Props {

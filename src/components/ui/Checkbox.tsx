@@ -1,3 +1,4 @@
+// این کامپوننت چک‌باکس سفارشی با برچسب و حالت‌ها را فراهم می‌کند.
 import React, { ForwardedRef, forwardRef } from 'react'
 import { Control, useController } from 'react-hook-form'
 

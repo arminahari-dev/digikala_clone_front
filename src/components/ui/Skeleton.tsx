@@ -1,3 +1,4 @@
+// این کامپوننت اسکلت بارگذاری برای جای‌گذاری محتوا هنگام لودینگ است.
 import React from 'react'
 
 interface SkeletonProps {

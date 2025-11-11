@@ -1,3 +1,4 @@
+// این فایل صادرکننده تمامی اجزای مرتبط با نمایش محصول است.
 export { default as ProductColorSelector } from './ProductVariants/ProductColorSelector'
 export { default as ProductSizeSelector } from './ProductVariants/ProductSizeSelector'
 

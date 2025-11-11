@@ -1,3 +1,4 @@
+// این کامپوننت قیمت و تخفیف محصول را به‌صورت قالب‌بندی‌شده نمایش می‌دهد.
 import { formatNumber } from '@/utils'
 
 import { Toman } from '@/icons'

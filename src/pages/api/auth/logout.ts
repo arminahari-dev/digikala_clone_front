@@ -1,3 +1,4 @@
+// این API کاربر را از سیستم خارج می‌کند و توکن را حذف می‌کند.
 import { NextApiHandler, type NextApiRequest, type NextApiResponse } from 'next'
 
 import { destroyAccessToken, destroyLoggedIn } from '@/utils'

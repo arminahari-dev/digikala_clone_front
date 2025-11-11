@@ -1,3 +1,4 @@
+// این ظرف جدول، اسکرول و استایل‌های سازگار برای جداول را فراهم می‌کند.
 interface Props {
   children: React.ReactNode
   tHeads: string[]

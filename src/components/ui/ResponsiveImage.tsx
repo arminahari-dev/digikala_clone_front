@@ -1,3 +1,4 @@
+// این کامپوننت تصویر واکنش‌گرا با پشتیبانی از placeholder را نمایش می‌دهد.
 import Image, { ImageProps } from 'next/image'
 
 import { customeBlurDataURL } from '@/utils'

@@ -1,3 +1,4 @@
+// این اسکلت هنگام بارگذاری جداول نمایش داده می‌شود.
 import { Skeleton } from '@/components/ui'
 
 export default function TableSkeleton({ count = 5 }) {

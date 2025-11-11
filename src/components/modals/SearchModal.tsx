@@ -1,3 +1,4 @@
+// این مودال جست‌وجوی سریع محصولات را نمایش و مدیریت می‌کند.
 import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 

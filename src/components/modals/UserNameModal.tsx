@@ -1,3 +1,4 @@
+// این مودال تغییر/ثبت نام کاربری را مدیریت می‌کند.
 import { useEffect } from 'react'
 
 import { SubmitHandler, useForm } from 'react-hook-form'

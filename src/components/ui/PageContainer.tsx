@@ -1,3 +1,4 @@
+// این ظرف صفحه، ساختار کلی صفحات و محدودکننده عرض را فراهم می‌کند.
 import { BackIconButton } from '@/components/ui'
 
 interface Props {

@@ -1,3 +1,4 @@
+// این صفحه خطاهای عمومی برنامه را نمایش می‌دهد.
 import Link from 'next/link'
 import { NextPageContext } from 'next'
 

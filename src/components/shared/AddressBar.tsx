@@ -1,3 +1,4 @@
+// این نوار آدرس، آدرس انتخابی کاربر را نمایش و امکان تغییر آن را فراهم می‌کند.
 import { WithAddressModal } from '@/components/shared'
 import { Skeleton } from '@/components/ui'
 import { ArrowLeft, Location2 } from '@/icons'

@@ -1,3 +1,4 @@
+// این فایل صادرکننده همه مودال‌های پروژه است.
 export { default as ConfirmDeleteModal } from './ConfirmDeleteModal'
 export { default as ConfirmUpdateModal } from './ConfirmUpdateModal'
 export { default as RedirectToLogin } from './RedirectToLogin'

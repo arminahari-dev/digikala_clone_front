@@ -1,3 +1,4 @@
+// این API اطلاعات کاربر احراز هویت‌شده را برمی‌گرداند.
 import { sendError } from '@/utils'
 
 import type { NextApiResponse } from 'next'

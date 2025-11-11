@@ -1,3 +1,4 @@
+// این API اطلاعات یک بنر را بر اساس شناسه بازمی‌گرداند یا به‌روزرسانی می‌کند.
 import { Banner } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

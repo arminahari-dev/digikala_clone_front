@@ -1,3 +1,4 @@
+// این کامپوننت لودینگ خطی کوچک را داخل بخش‌ها نمایش می‌دهد.
 export default function InlineLoading() {
   return (
     // eslint-disable-next-line tailwindcss/no-custom-classname

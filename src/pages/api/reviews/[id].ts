@@ -1,3 +1,4 @@
+// این API یک نظر مشخص را بر اساس شناسه بازمی‌گرداند یا ویرایش می‌کند.
 import { Review, Product } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

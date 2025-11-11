@@ -1,3 +1,4 @@
+// این API داده‌های نمونه (placeholder) را برای تست برمی‌گرداند.
 import { sendError, roles } from '@/utils'
 
 import { withUser } from '@/middlewares'

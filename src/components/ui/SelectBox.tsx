@@ -1,3 +1,4 @@
+// این کامپوننت باکس انتخابی سفارشی با جست‌وجو و استایل را ارائه می‌دهد.
 /* eslint-disable tailwindcss/migration-from-tailwind-2 */
 import { Fragment } from 'react'
 

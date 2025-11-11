@@ -1,3 +1,4 @@
+// این فایل مجموعه دکمه‌های قابل‌استفاده مجدد را ارائه می‌دهد.
 import { InlineLoading } from '@/components/ui'
 
 interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {

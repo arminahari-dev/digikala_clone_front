@@ -1,3 +1,4 @@
+// این کامپوننت پیام خطا را به‌صورت مناسب نمایش می‌دهد.
 import { FieldError } from 'react-hook-form'
 
 import { Transition } from '@headlessui/react'

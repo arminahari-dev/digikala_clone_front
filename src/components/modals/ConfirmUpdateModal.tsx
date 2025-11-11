@@ -1,3 +1,4 @@
+// این مودال تایید به‌روزرسانی/ویرایش اطلاعات را نمایش می‌دهد.
 import { Modal, Button } from '@/components/ui'
 
 interface Props {

@@ -1,3 +1,4 @@
+// این API لاگین کاربر را انجام می‌دهد و توکن را برمی‌گرداند.
 import bcrypt from 'bcrypt'
 
 import { User } from '@/models'

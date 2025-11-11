@@ -1,3 +1,4 @@
+// این کامپوننت ناحیه متن چندخطی با اعتبارسنجی و استایل را ارائه می‌دهد.
 import { Control, FieldError, useController } from 'react-hook-form'
 
 import { DisplayError } from '@/components/ui'

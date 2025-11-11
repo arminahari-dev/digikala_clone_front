@@ -1,3 +1,4 @@
+// این کارت خلاصه‌ای از یک سفارش را نمایش می‌دهد.
 import moment from 'moment-jalaali'
 
 import { formatNumber } from '@/utils'

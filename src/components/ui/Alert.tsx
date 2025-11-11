@@ -1,3 +1,4 @@
+// این کامپوننت پیام‌های هشدار/موفقیت را به‌صورت توست یا باکس نمایش می‌دهد.
 import { useEffect } from 'react'
 import Image from 'next/image'
 

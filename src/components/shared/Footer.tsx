@@ -1,3 +1,4 @@
+// این فوتر اطلاعات و خدمات کلیدی فروشگاه را نمایش می‌دهد.
 import Image from 'next/image'
 
 import {

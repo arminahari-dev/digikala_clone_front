@@ -1,3 +1,4 @@
+// این نوار ناوبری بالا، دسترسی سریع به بخش‌های اصلی را فراهم می‌کند.
 import { useEffect, useState } from 'react'
 import Link from 'next/link'
 

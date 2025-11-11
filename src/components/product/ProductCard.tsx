@@ -1,3 +1,4 @@
+// این کارت اطلاعات خلاصه محصول را در لیست‌ها نمایش می‌دهد.
 import { truncate } from '@/utils'
 
 import { Plus, Star } from '@/icons'

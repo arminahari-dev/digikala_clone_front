@@ -1,3 +1,4 @@
+// این لینک جعبه‌ای برای نمایش لینک‌های برجسته در صفحات استفاده می‌شود.
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 

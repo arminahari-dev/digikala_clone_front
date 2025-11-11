@@ -1,3 +1,4 @@
+// این کامپوننت لیست سفارش‌های کاربر را واکشی و نمایش می‌دهد.
 import Image from 'next/image'
 import { useState, useEffect } from 'react'
 

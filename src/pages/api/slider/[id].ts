@@ -1,3 +1,4 @@
+// این API اطلاعات یک اسلایدر را بر اساس شناسه بازمی‌گرداند یا تغییر می‌دهد.
 import { Slider } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

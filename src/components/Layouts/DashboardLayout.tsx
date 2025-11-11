@@ -1,3 +1,4 @@
+// این لایه چیدمان پنل مدیریت را با سایدبار و محتوای اصلی ارائه می‌دهد.
 import { ProtectedRouteWrapper } from '@/components/user'
 import { DashboardAdminAside } from '@/components/shared'
 

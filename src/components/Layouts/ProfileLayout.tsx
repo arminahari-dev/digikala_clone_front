@@ -1,3 +1,4 @@
+// این لایه چیدمان بخش پروفایل کاربر را سازمان‌دهی می‌کند.
 import { roles } from '@/utils'
 
 import { ProtectedRouteWrapper } from '@/components/user'

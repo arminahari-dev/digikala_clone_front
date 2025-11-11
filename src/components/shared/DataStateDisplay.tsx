@@ -1,3 +1,4 @@
+// این کامپوننت وضعیت داده‌ها (لودینگ، خطا، خالی، موفق) را نمایش می‌دهد.
 import { getErrorMessage } from '@/utils'
 
 import { EmptyCustomList } from '@/components/emptyList'

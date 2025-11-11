@@ -1,3 +1,4 @@
+// این مجموعه، دکمه‌های آیکونی کوچک و کاربردی را ارائه می‌کند.
 import { useRouter } from 'next/router'
 
 import { ArrowRight, Delete, Edit, Plus } from '@/icons'

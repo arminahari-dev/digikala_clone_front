@@ -1,3 +1,4 @@
+// این API جزییات محصولات را بازمی‌گرداند.
 import { Details } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

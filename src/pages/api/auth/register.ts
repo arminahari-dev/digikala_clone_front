@@ -1,3 +1,4 @@
+// این API ثبت‌نام کاربر جدید را انجام می‌دهد.
 import bcrypt from 'bcrypt'
 
 import { User } from '@/models'

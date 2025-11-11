@@ -1,3 +1,4 @@
+// این سایدبار ناوبری بخش‌های مختلف برنامه را نمایش می‌دهد.
 import { useEffect } from 'react'
 import Link from 'next/link'
 

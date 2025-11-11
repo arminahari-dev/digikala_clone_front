@@ -1,3 +1,4 @@
+// این API فهرست بنرها را بازمی‌گرداند.
 import { Banner } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

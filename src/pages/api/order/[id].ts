@@ -1,3 +1,4 @@
+// این API جزئیات یک سفارش را بر اساس شناسه بازمی‌گرداند.
 import { Order } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

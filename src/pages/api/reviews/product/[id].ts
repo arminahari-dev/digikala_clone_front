@@ -1,3 +1,4 @@
+// این API نظرات مربوط به یک محصول را بر اساس شناسه محصول بازمی‌گرداند.
 import { Review } from '@/models'
 
 import { sendError, db } from '@/utils'

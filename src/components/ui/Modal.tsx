@@ -1,3 +1,4 @@
+// این کامپوننت مودال عمومی با افکت‌های نمایش و بستن را ارائه می‌دهد.
 import React, { useEffect } from 'react'
 import { Close } from '@/icons'
 

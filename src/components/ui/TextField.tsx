@@ -1,3 +1,4 @@
+// این کامپوننت ورودی متنی با برچسب، خطا و استایل را ارائه می‌دهد.
 import { DisplayError } from '@/components/ui'
 
 import { Control, FieldError, useController } from 'react-hook-form'

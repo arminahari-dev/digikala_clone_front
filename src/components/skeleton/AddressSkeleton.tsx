@@ -1,3 +1,4 @@
+// این اسکلت هنگام بارگذاری بخش آدرس نمایش داده می‌شود.
 import { Skeleton } from '@/components/ui'
 import { Phone, Post, User, UserLocation } from '@/icons'
 

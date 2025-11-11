@@ -1,3 +1,4 @@
+// این API فهرست کاربران یا عملیات‌های مرتبط با کاربر را مدیریت می‌کند.
 import { User } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

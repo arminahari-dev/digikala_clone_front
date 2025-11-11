@@ -1,3 +1,4 @@
+// این کامپوننت لودینگ تمام‌صفحه را برای عملیات‌های طولانی نمایش می‌دهد.
 import { Logo } from '@/icons'
 import { InlineLoading } from '@/components/ui'
 

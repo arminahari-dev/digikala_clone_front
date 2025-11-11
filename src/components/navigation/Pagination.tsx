@@ -1,3 +1,4 @@
+// این کامپوننت صفحه‌بندی نتایج را در کلاینت مدیریت و نمایش می‌دهد.
 import { useRouter } from 'next/router'
 
 import { ArrowLeft, ArrowRight2 } from '@/icons'

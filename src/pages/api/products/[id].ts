@@ -1,3 +1,4 @@
+// این API اطلاعات یک محصول مشخص را بر اساس شناسه برمی‌گرداند.
 import { Product } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

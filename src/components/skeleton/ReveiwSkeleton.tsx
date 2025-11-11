@@ -1,3 +1,4 @@
+// این اسکلت هنگام بارگذاری بخش نظرات نمایش داده می‌شود.
 import { Skeleton } from '@/components/ui'
 
 export default function ReveiwSkeleton() {

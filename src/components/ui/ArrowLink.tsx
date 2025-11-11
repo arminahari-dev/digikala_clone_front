@@ -1,3 +1,4 @@
+// این لینک فلش‌دار برای ناوبری سریع بین صفحات استفاده می‌شود.
 import Link from 'next/link'
 
 import { ArrowLeft } from '@/icons'

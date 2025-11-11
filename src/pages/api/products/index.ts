@@ -1,3 +1,4 @@
+// این API فهرست محصولات را با فیلتر و صفحه‌بندی برمی‌گرداند.
 import { Category, Product } from '@/models'
 
 import { sendError, db, roles, makeSlug } from '@/utils'

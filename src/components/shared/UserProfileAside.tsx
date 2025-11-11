@@ -1,3 +1,4 @@
+// این سایدبار مسیرها و خلاصه‌ای از اطلاعات پروفایل کاربر را نشان می‌دهد.
 import Link from 'next/link'
 
 import { useUserInfo } from '@/hooks'

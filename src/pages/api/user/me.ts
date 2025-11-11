@@ -1,3 +1,4 @@
+// این API اطلاعات کاربر جاری (خود کاربر) را بازمی‌گرداند.
 import { sendError } from '@/utils'
 
 import type { NextApiResponse } from 'next'

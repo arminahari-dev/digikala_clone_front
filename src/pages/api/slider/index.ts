@@ -1,3 +1,4 @@
+// این API فهرست اسلایدرها را بازمی‌گرداند.
 import { Slider } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

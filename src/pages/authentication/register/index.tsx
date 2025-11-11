@@ -1,3 +1,4 @@
+// این صفحه فرم ثبت‌نام کاربر جدید را نمایش می‌دهد.
 import dynamic from 'next/dynamic'
 import Head from 'next/head'
 import { useEffect } from 'react'

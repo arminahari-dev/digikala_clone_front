@@ -1,3 +1,4 @@
+// این فایل صادرکننده اسکلت‌های بارگذاری مختلف در سراسر برنامه است.
 export { default as ReveiwSkeleton } from './ReveiwSkeleton'
 export { default as NavbarSkeleton } from './NavbarSkeleton'
 export { default as SidebarSkeleton } from './SidebarSkeleton'

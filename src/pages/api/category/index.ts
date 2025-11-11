@@ -1,3 +1,4 @@
+// این API فهرست دسته‌بندی‌ها را بازمی‌گرداند.
 import { Category } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

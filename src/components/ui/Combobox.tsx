@@ -1,3 +1,4 @@
+// این کامپوننت کمبوباکس جست‌وجوپذیر را پیاده‌سازی می‌کند.
 /* eslint-disable tailwindcss/migration-from-tailwind-2 */
 import { Fragment, useState } from 'react'
 

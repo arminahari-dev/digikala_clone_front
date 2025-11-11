@@ -1,3 +1,4 @@
+// این سایدبار دسترسی‌های بخش مدیریت را نمایش می‌دهد.
 import Link from 'next/link'
 
 import { Bag, Category, Comment, Image, Location, Logo, Plus, Save, Slider, Users } from '@/icons'

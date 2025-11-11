@@ -1,3 +1,4 @@
+// این مودال کاربر مهمان را برای ورود به سیستم راهنمایی می‌کند.
 import Image from 'next/image'
 import { useRouter } from 'next/router'
 

@@ -1,3 +1,4 @@
+// این مودال فیلترهای جست‌وجو/محصولات را مدیریت می‌کند.
 import { Filter as FilterIcon } from '@/icons'
 
 import { useDisclosure } from '@/hooks'

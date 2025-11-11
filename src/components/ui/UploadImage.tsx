@@ -1,3 +1,4 @@
+// این کامپوننت آپلود تصویر با پیش‌نمایش را مدیریت می‌کند.
 import { useEffect, useState } from 'react'
 
 import { nanoid } from '@reduxjs/toolkit'

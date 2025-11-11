@@ -1,3 +1,4 @@
+// این API فهرست نظرات کاربران را بازمی‌گرداند.
 import { Review } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

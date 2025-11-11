@@ -1,3 +1,4 @@
+// این اسکلت هنگام بارگذاری نوار ناوبری نمایش داده می‌شود.
 import { Skeleton } from '@/components/ui'
 
 export default function NavbarSkeleton() {

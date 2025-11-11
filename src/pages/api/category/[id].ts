@@ -1,3 +1,4 @@
+// این API اطلاعات یک دسته‌بندی را بر اساس شناسه برمی‌گرداند.
 import { Category } from '@/models'
 
 import { sendError, db, roles } from '@/utils'

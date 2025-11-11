@@ -1,3 +1,4 @@
+// این مودال ثبت نظر/امتیاز برای یک محصول را مدیریت می‌کند.
 import { useState, useRef, useEffect } from 'react'
 
 import { nanoid } from '@reduxjs/toolkit'

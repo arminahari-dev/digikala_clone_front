@@ -1,3 +1,4 @@
+// این کامپوننت هنگام تغییر صفحات، انیمیشن لودینگ گذار را نمایش می‌دهد.
 import Router from 'next/router'
 import { useEffect, useState } from 'react'
 

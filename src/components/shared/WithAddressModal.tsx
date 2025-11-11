@@ -1,3 +1,4 @@
+// این کامپوننت هوک و مودال آدرس را برای فرزندان فراهم می‌کند.
 import React from 'react'
 
 import { useDisclosure, useUserInfo } from '@/hooks'

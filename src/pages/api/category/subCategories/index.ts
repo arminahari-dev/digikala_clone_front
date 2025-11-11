@@ -1,3 +1,4 @@
+// این API زیر‌دسته‌های یک دسته مشخص را برمی‌گرداند.
 import { Category } from '@/models'
 
 import { sendError, db } from '@/utils'

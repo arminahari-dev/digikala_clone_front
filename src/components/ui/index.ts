@@ -2,6 +2,7 @@
 // This directory is dedicated to components focused on the user interface and aesthetic layout.
 // Typically, these components are stateless and designed for high reusability throughout the application,
 // serving as the building blocks for the visual experience.
+// این فایل صادرکننده اجزای پایه رابط کاربری (UI) پروژه است.
 
 export { default as FullScreenLoading } from './loading/FullScreenLoading'
 export { default as InlineLoading } from './loading/InlineLoading'
