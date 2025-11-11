@@ -1,3 +1,5 @@
+// این میان‌افزار کاربر را از طریق توکن JWT احراز و به درخواست می‌افزاید.
+
 import { User } from '@/models'
 
 import type { NextApiResponse } from 'next'

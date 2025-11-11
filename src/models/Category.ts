@@ -1,3 +1,5 @@
+// این مدل اسکیمای دسته‌بندی در مونگوس را تعریف می‌کند.
+
 import { Model, Schema, models, model } from 'mongoose'
 
 import type { ICategoryDocument } from '@/types'

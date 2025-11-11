@@ -1,3 +1,5 @@
+// این اسلایس فهرست آخرین بازدیدهای کاربر را ذخیره می‌کند.
+
 import { PayloadAction, createSlice } from '@reduxjs/toolkit'
 
 interface Product {

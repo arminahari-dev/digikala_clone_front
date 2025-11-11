@@ -1,3 +1,6 @@
+// برای نمایش لیست کامنت زمانی که خالیه
+
+
 import { OrderEmpty } from '@/icons'
 
 export default function EmptyCommentsList() {

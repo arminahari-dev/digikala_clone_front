@@ -1,3 +1,4 @@
+// {برای نمایش سبدخرید}
 import Link from 'next/link'
 
 import { CartDropdownMenu, CartIconBadge } from '@/components/cart'

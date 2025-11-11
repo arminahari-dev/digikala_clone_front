@@ -1,3 +1,5 @@
+// این مدل اسکیمای محصول در مونگوس را تعریف می‌کند.
+
 import { Model, Schema, model, models } from 'mongoose'
 
 import type { IProductDocument } from '@/types'

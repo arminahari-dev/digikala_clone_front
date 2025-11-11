@@ -1,3 +1,5 @@
+// این فایل ریشه برنامه Next.js را پیکربندی و لایه‌ها را اعمال می‌کند.
+
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 

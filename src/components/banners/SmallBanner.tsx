@@ -1,5 +1,7 @@
-import { ResponsiveImage } from '@/components/ui'
+// {----------------            برای بنر های کوچک           -----------------}
 
+
+import { ResponsiveImage } from '@/components/ui'
 import type { IBanner } from '@/types'
 
 interface Props {

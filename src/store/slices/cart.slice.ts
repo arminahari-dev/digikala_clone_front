@@ -1,3 +1,5 @@
+// این اسلایس منطق و حالت سبد خرید را مدیریت می‌کند.
+
 import { PayloadAction, createSlice, nanoid } from '@reduxjs/toolkit'
 
 import { exsitItem, getTotal } from '@/utils'

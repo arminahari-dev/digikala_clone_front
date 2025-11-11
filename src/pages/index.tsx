@@ -1,3 +1,5 @@
+// این صفحه اصلی فروشگاه را با بنرها، اسلایدرها و دسته‌بندی‌ها نمایش می‌دهد.
+
 import Head from 'next/head'
 
 import { db, siteDescription } from '@/utils'

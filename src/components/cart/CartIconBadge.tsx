@@ -1,3 +1,5 @@
+// {برای نمایش ایکون تعداد محصول داخل سبد خرید }
+
 import { Cart } from '@/icons'
 
 import { formatNumber } from '@/utils'

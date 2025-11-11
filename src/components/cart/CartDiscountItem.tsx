@@ -1,5 +1,6 @@
-import { Toman, TomanRed } from '@/icons'
+// {برای نمایش تخفیف}
 
+import { Toman, TomanRed } from '@/icons'
 import { formatNumber } from '@/utils'
 
 interface Props {

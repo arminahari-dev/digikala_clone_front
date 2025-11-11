@@ -1,3 +1,5 @@
+// این ماژول پیکربندی پایه RTK Query و apiSlice را فراهم می‌کند.
+
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/dist/query/react'
 
 const apiSlice = createApi({

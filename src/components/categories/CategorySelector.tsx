@@ -1,3 +1,5 @@
+// لیست دسته بندی انتخاب شده
+
 import { useEffect, useState } from 'react'
 
 import { useGetCategoriesQuery } from '@/services'

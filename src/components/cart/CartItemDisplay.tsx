@@ -1,3 +1,5 @@
+// {نمایش ایتم های سبد خرید}
+
 import Link from 'next/link'
 
 import { formatNumber } from '@/utils'

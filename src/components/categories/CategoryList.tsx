@@ -1,3 +1,5 @@
+// لیست دسته بندی ها 
+
 import Link from 'next/link'
 
 import { ResponsiveImage } from '@/components/ui'

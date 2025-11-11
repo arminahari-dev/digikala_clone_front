@@ -1,3 +1,5 @@
+// این فایل اندپوینت‌های احراز هویت (ورود، ثبت‌نام، خروج) را مدیریت می‌کند.
+
 import baseApi from '@/services/baseApi'
 import { userApiSlice } from '@/services'
 

@@ -1,3 +1,5 @@
+// این فایل خروجی‌های کمکی و توابع عمومی پروژه را جمع‌آوری می‌کند.
+
 export * from './constants'
 export * from './validation'
 export * from './auth'

@@ -1,3 +1,5 @@
+// این مدل اسکیمای کاربر در مونگوس را تعریف می‌کند.
+
 import { Model, Schema, model, models } from 'mongoose'
 
 import type { IUserDocument } from '@/types'

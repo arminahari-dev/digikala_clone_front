@@ -1,3 +1,5 @@
+// {اکشن سبد خرید}
+
 import { decrease, increase, removeFromCart } from '@/store'
 import { useDispatch } from 'react-redux'
 

@@ -1,3 +1,5 @@
+// این ماژول توابع امضای توکن و اعتبارسنجی JWT را فراهم می‌کند.
+
 import jwt, { JwtPayload, Secret } from 'jsonwebtoken'
 
 import config from '@/config'

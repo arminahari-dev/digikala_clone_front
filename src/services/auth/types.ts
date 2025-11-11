@@ -1,3 +1,5 @@
+// این فایل انواع تایپی مرتبط با احراز هویت را تعریف می‌کند.
+
 import type { ILoginForm, IUser } from '@/types'
 
 export type MsgResult = { msg: string }

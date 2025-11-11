@@ -1,3 +1,5 @@
+// این فایل ساختار سند HTML سفارشی Next.js را تنظیم می‌کند.
+
 import Document, { Head, Html, Main, NextScript } from 'next/document'
 
 class MyDocument extends Document {

@@ -1,3 +1,5 @@
+// این صفحه محتوای دسته‌بندی انتخاب‌شده را به‌صورت استاتیک نمایش می‌دهد.
+
 import Head from 'next/head'
 
 import { db } from '@/utils'

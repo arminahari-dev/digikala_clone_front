@@ -1,3 +1,5 @@
+// این اسلایس نمایش و مدیریت پیام‌های هشدار را بر عهده دارد.
+
 import { PayloadAction, createSlice } from '@reduxjs/toolkit'
 
 interface AlertState {

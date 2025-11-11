@@ -1,3 +1,5 @@
+// این هوک اطلاعات کاربر را از سرور واکشی و برمی‌گرداند.
+
 import { useGetUserInfoQuery } from '@/services'
 
 export default function useUserInfo() {

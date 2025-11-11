@@ -1,3 +1,5 @@
+// این فایل همه انواع تایپی پروژه را از مسیرهای مختلف صادر می‌کند.
+
 export type * from './models/IBanner.type'
 export type * from './models/ICategory.type'
 export type * from './models/IDetails.type'

@@ -1,3 +1,5 @@
+// این فایل اندپوینت‌های مربوط به محصولات را با RTK Query مدیریت می‌کند.
+
 import baseApi from '@/services/baseApi'
 
 import { generateQueryParams } from '@/utils'

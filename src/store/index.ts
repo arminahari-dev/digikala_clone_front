@@ -1,3 +1,5 @@
+// این فایل فروشگاه ریداکس را پیکربندی و صادر می‌کند.
+
 import { configureStore } from '@reduxjs/toolkit'
 import { setupListeners } from '@reduxjs/toolkit/dist/query'
 
