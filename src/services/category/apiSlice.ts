@@ -1,3 +1,4 @@
+// این فایل اندپوینت‌های مربوط به دسته‌بندی‌ها را مدیریت می‌کند.
 import baseApi from '@/services/baseApi'
 
 import { generateQueryParams } from '@/utils'

@@ -1,3 +1,4 @@
+// این فایل صادرکننده هوک‌های سفارشی پروژه است.
 export { default as useChangeRoute } from './useChangeRoute'
 export { default as useDebounce } from './useDebounce'
 export { default as useDisclosure } from './useDisclosure'

@@ -1,3 +1,4 @@
+// این فایل توابع قالب‌بندی متن و اعداد را فراهم می‌کند.
 export function formatNumber(n: number): string {
   if (n) {
     const newNumber = n.toString()

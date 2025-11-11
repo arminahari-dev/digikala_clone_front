@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس کاربر را تعریف می‌کند.
 import type { IPagination, IUser } from '@/types'
 
 export type MsgResult = { msg: string }

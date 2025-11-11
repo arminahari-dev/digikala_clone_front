@@ -1,3 +1,4 @@
+// این هوک مقدار را با تاخیر (debounce) برمی‌گرداند.
 import { useEffect, useState } from 'react'
 
 function useDebounce(value: string | number | boolean, delay: number) {

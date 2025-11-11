@@ -1,3 +1,4 @@
+// این فایل نوع پراپس مودال آدرس کاربر را تعریف می‌کند.
 import type { IAddress } from '@/types'
 
 export default interface WithAddressModalProps {

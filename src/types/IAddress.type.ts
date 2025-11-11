@@ -1,3 +1,4 @@
+// این فایل نوع آدرس کاربر را تعریف می‌کند.
 export default interface IAddress {
   postalCode: string
   street: string

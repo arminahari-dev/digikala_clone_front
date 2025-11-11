@@ -1,3 +1,4 @@
+// این فایل اندپوینت‌های مربوط به نظرات کاربران را مدیریت می‌کند.
 import baseApi from '@/services/baseApi'
 
 import type {

@@ -1,3 +1,4 @@
+// این فایل نوع تایپی دسته‌بندی را تعریف می‌کند.
 import type { ObjectId, Document } from 'mongoose'
 
 export interface ICategory {

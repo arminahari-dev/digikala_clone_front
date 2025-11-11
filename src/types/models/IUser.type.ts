@@ -1,3 +1,4 @@
+// این فایل نوع تایپی کاربر را تعریف می‌کند.
 import type { ObjectId, Document } from 'mongoose'
 import type { IAddress } from '@/types'
 

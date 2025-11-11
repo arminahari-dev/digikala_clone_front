@@ -1,3 +1,4 @@
+// این فایل اتصال و عملیات پایگاه‌داده را ساده‌سازی می‌کند.
 import mongoose from 'mongoose'
 
 const connection = {

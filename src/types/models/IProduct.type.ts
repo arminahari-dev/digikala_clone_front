@@ -1,3 +1,4 @@
+// این فایل نوع تایپی محصول را تعریف می‌کند.
 import type { ObjectId, Document } from 'mongoose'
 import type { ISize, IColor, ICategory } from '@/types'
 

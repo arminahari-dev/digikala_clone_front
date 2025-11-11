@@ -1,3 +1,4 @@
+// این فایل اندپوینت‌های مربوط به بنرها را با RTK Query مدیریت می‌کند.
 import baseApi from '@/services/baseApi'
 
 import type {

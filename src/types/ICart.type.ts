@@ -1,3 +1,4 @@
+// این فایل نوع آیتم‌های سبد خرید را تعریف می‌کند.
 export default interface ICart {
   itemID: string
   productID: string

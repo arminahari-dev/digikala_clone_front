@@ -1,3 +1,4 @@
+// این هوک تغییر مسیر با تاخیر/کنترل شده را مدیریت می‌کند.
 import { useRouter } from 'next/router'
 import { generateQueryParams } from '@/utils'
 

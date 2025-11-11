@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس سفارش‌ها را تعریف می‌کند.
 import type { IOrder, IPagination } from '@/types'
 
 export type MsgResult = { msg: string }

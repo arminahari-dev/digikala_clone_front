@@ -1,3 +1,4 @@
+// این مدل اسکیمای جزییات محصول را تعریف می‌کند.
 import { Model, Schema, model, models } from 'mongoose'
 
 import type { IDetailsDocument } from '@/types'

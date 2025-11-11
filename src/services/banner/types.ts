@@ -1,3 +1,4 @@
+// این فایل انواع تایپی مربوط به سرویس بنرها را تعریف می‌کند.
 import type { IBanner, IBannerForm } from '@/types'
 
 export type MsgResult = { msg: string }

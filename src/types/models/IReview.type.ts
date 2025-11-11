@@ -1,3 +1,4 @@
+// این فایل نوع تایپی نظر کاربر را تعریف می‌کند.
 import type { ObjectId, Document } from 'mongoose'
 import type { IUser, IProduct } from '@/types'
 

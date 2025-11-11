@@ -1,3 +1,4 @@
+// این فایل نوع درخواست Next API با فیلد کاربر را تعریف می‌کند.
 import type { NextApiRequest } from 'next'
 import { IUserDocument } from '@/types'
 

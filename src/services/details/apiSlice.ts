@@ -1,3 +1,4 @@
+// این فایل اندپوینت‌های جزییات محصول را مدیریت می‌کند.
 import baseApi from '@/services/baseApi'
 
 import type {

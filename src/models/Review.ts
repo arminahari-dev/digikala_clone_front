@@ -1,3 +1,4 @@
+// این مدل اسکیمای نظرات کاربران را تعریف می‌کند.
 import { Model, Schema, model, models } from 'mongoose'
 
 import type { IReviewDocument } from '@/types'

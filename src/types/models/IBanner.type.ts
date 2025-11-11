@@ -1,3 +1,4 @@
+// این فایل نوع تایپی بنر را تعریف می‌کند.
 import type { ObjectId, Document } from 'mongoose'
 
 export interface IBanner {

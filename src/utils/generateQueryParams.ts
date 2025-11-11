@@ -1,3 +1,4 @@
+// این فایل تولید امن و صحیح پارامترهای جست‌وجو (query string) را انجام می‌دهد.
 import type { QueryParams } from '@/types'
 
 const generateQueryParams = (params: QueryParams) => {

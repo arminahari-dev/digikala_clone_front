@@ -1,3 +1,4 @@
+// این فایل انواع تایپی فرم‌های پروژه را تعریف می‌کند.
 import type { IBanner, ICategory, IDetails, IProduct, IReview, ISlider } from '@/types'
 
 export type ICategoryForm = Omit<ICategory, '_id' | 'children' | 'createdAt' | 'updatedAt'>

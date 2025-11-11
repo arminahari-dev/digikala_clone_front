@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس اسلایدرها را تعریف می‌کند.
 import type { ISlider, ISliderForm } from '@/types'
 
 export type MsgResult = { msg: string }

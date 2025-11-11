@@ -1,3 +1,4 @@
+// این هوک حالت باز/بسته بودن مودال‌ها یا منوها را مدیریت می‌کند.
 import { useState } from 'react'
 
 export default function useDisclosure(initialState = false) {

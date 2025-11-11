@@ -1,3 +1,4 @@
+// این مدل اسکیمای سفارش‌ها را در مونگوس تعریف می‌کند.
 import mongoose, { Model, Schema, model, models } from 'mongoose'
 
 import type { IOrderDocument } from '@/types'

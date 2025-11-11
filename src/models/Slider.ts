@@ -1,3 +1,4 @@
+// این مدل اسکیمای اسلایدرها را تعریف می‌کند.
 import { Model, Schema, model, models } from 'mongoose'
 
 import type { ISliderDocument } from '@/types'

@@ -1,3 +1,4 @@
+// این فایل صادرکننده همه مدل‌های مونگوس است.
 export { default as Banner } from './Banner'
 export { default as Category } from './Category'
 export { default as Details } from './Details'

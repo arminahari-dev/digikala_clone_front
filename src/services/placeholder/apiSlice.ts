@@ -1,3 +1,4 @@
+// این فایل اندپوینت نمونه/placeholder برای تست و توسعه را مدیریت می‌کند.
 import baseApi from '@/services/baseApi'
 
 import type { CreatePlaceholderResult, CreatePlaceholderQuery } from './types'

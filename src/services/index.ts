@@ -1,3 +1,4 @@
+// این فایل صادرکننده همه سرویس‌های RTK Query پروژه است.
 export * from './banner/apiSlice'
 export * from './category/apiSlice'
 export * from './details/apiSlice'

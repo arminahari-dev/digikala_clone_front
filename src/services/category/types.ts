@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس دسته‌بندی‌ها را تعریف می‌کند.
 import type { ICategoriesList, ICategory, ICategoryForm } from '@/types'
 
 export type MsgResult = { msg: string }

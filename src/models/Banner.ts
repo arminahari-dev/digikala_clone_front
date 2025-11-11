@@ -1,3 +1,4 @@
+// این مدل اسکیمای بنرها در مونگوس را تعریف می‌کند.
 import { Model, Schema, models, model } from 'mongoose'
 
 import type { IBannerDocument } from '@/types'

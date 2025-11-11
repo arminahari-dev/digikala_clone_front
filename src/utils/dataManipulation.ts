@@ -1,3 +1,4 @@
+// این فایل توابع دستکاری و پردازش داده‌ها را فراهم می‌کند.
 import type { ICart } from '@/types'
 
 export function exsitItem(

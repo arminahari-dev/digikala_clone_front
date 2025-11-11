@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس نظرات را تعریف می‌کند.
 import type { IPagination, IReview, IReviewForm } from '@/types'
 
 export type MsgResult = { msg: string }

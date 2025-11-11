@@ -1,3 +1,4 @@
+// این فایل انواع تایپی سرویس جزییات محصول را تعریف می‌کند.
 import type { IDetails, IDetailsForm } from '@/types'
 
 export type MsgResult = { msg: string }

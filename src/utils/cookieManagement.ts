@@ -1,3 +1,4 @@
+// این فایل توابع مدیریت کوکی‌ها را فراهم می‌کند.
 import config from '@/config'
 import { tokens } from './constants'
 import { serialize } from 'cookie'

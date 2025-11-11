@@ -1,3 +1,4 @@
+// این هوک بررسی می‌کند که آیا عرض صفحه با کوئری رسانه‌ای منطبق است یا خیر.
 import { useState, useEffect } from 'react'
 
 const useMediaQuery = (query: string) => {
